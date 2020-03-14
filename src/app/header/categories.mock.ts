@@ -1,6 +1,5 @@
 export const categories = [
-  {name: 'Home'},
-  {name: 'Popular Games'},
-  {name: 'Table Games'},
-  {name: 'Other Games'}
+  {name: 'Home', icon: 'fa fa-home'},
+  {name: 'User', icon: 'fa fa-user'},
+  {name: 'About', icon: 'fa fa-info'},
 ]
