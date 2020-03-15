@@ -12,7 +12,7 @@ import {YComponent} from './view-encaptulation/y.component';
 
 @NgModule({
   imports:      [ BrowserModule, BrowserAnimationsModule, FormsModule ],
-  declarations: [ AppComponent, HeaderComponent ],
+  declarations: [ AppComponent, HeaderComponent, XComponent, YComponent ],
   bootstrap:    [ AppComponent ]
 })
 export class AppModule { }
