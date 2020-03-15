@@ -1,4 +1,4 @@
-/@import '~bootstrap/dist/css/bootstrap.min.css';
+@charset "UTF-8";
 
 .animatedlogo {
   background: black;
@@ -15,8 +15,6 @@
 .logo {
   letter-spacing: 1.5px;
 }
-
-@charset "UTF-8";
 
 /*!
  * animate.css -https://daneden.github.io/animate.css/

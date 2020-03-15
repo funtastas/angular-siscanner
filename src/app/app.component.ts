@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { categories } from './header/categories.mock';
 
 @Component({
   selector: 'my-app',
@@ -6,5 +7,5 @@ import { Component } from '@angular/core';
   styleUrls: [ './app.component.css' ], 
 })
 export class AppComponent  {
-
+  categories: any[] = categories;
 }
